@@ -1,6 +1,6 @@
 # 📉 Customer Churn Prediction using Machine Learning
 
-![Banner](assets/customer-churn-banner.png)
+![Banner](assets/banner.png)
 
 This project aims to predict **customer churn** in a telecommunications company using supervised machine learning algorithms.  
 It utilizes the **Telco Customer Churn dataset** and compares various classification models to identify patterns in churn behavior.
